@@ -1,2 +1,2 @@
 # My_First_Extension_Chrome
-This repo for learning to create exetension on chrome browser
+This repo is for learning to create extensions on the Chrome browser
